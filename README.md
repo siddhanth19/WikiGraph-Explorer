@@ -23,4 +23,4 @@ This project leverages **Graph RAG** to extract and visualize knowledge from **W
 - **Hugging Face**  
 
 ## 📸 Demonstartion  
-[🔗 Watch the Demo] (https://www.linkedin.com/posts/siddhanth-garg-7b13b0232_graphrag-llms-neo4j-activity-7303018241117851651-mcvH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADoUQ3UB3OwnD75rRLhBQTig7lKmWt2Ejtc)
+[🔗 Watch the Demo](https://www.linkedin.com/posts/siddhanth-garg-7b13b0232_graphrag-llms-neo4j-activity-7303018241117851651-mcvH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADoUQ3UB3OwnD75rRLhBQTig7lKmWt2Ejtc)
