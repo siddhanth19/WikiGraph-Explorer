@@ -5,7 +5,7 @@
 This project leverages **Graph RAG** to extract and visualize knowledge from **Wikipedia** using:  
 ✅ **Neo4j Graph Database** for structured retrieval  
 ✅ **LangChain** for entity extraction & query handling  
-✅ **LLMs + Vector Search** for hybrid retrieval  
+✅ **LLMs + Knowledge Graph + Vector Search** for hybrid retrieval  
 ✅ **Streamlit** for an interactive UI  
 
 ## 🏗️ How It Works  
